@@ -4,9 +4,9 @@ O Ecoleta serve como uma conexão entre empresas que coletam resíduos(pilhas, b
 
 ## Next Level Week 1.0
 
-Aplicação desenvolvida durante a Next Level Week 1.0 idealizada pela [Rocketseat](https://rocketseat.com.br/).
+Aplicação sendo desenvolvida durante a Next Level Week 1.0 idealizada pela [Rocketseat](https://rocketseat.com.br/).
 
-## Desenvolvido com:
+## Em desenvolvimento, usando:
 * [Node.js](https://nodejs.org/) - Server Side
 * [npm](https://www.npmjs.com/) - Gerenciador de dependências
 * [Express](https://expressjs.com/) - Framework web
