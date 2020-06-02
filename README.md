@@ -1,6 +1,6 @@
 # Ecoleta ♻️
 
-O Ecoleta serve como uma conexão entre empresas que coletam resíduos(pilhas, baterias, orgânicos...) à pessoas que precisam descartar esses resíduos.
+O Ecoleta serve como uma conexão entre empresas que coletam resíduos (pilhas, baterias, orgânicos...) à pessoas que precisam descartar esses resíduos.
 
 ## Next Level Week 1.0
 
