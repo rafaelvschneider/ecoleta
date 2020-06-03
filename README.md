@@ -5,10 +5,6 @@ descartar esses resíduos.
 
 ## Next Level Week 1.0
 
-Aplicação sendo desenvolvida durante a Next Level Week 1.0 idealizada pela [Rocketseat](https://rocketseat.com.br/).
-
-## Next Level Week 1.0
-
 Aplicação desenvolvida durante a Next Level Week 1.0 idealizada pela [Rocketseat](https://rocketseat.com.br/).
 
 ## Em desenvolvimento, usando:
