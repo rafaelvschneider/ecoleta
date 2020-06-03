@@ -19,4 +19,5 @@ Aplicação desenvolvida durante a Next Level Week 1.0 idealizada pela [Rocketse
 * [React](https://reactjs.org/) - Framework front-end
 * [React Native](https://reactnative.dev/) - Framework mobile
 * [Expo](https://expo.io/) - Ferramenta de desenvolvimento mobile com react-native.
-* [Expo](https://expo.io/) - Ferramenta de desenvolvimento mobile com react-native.
+* [Knex](http://knexjs.org/) - Query Builder
+* [SQLite](https://www.sqlite.org/index.html) - Banco de dados
